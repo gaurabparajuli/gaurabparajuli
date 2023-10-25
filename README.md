@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurabparajuli
-- 👀 I’m interested to become a Quality ASsurance (QA) Engineer.
-- 🌱 I’m currently learning software testing tools.
-- 💞️ I’m looking for internship as QA Engineer.
+- 👀 I’m interested to become a Data Scientist.
+- 🌱 I’m currently learning Python, R Programming, SQL, Machine Learning, Deep Learning and Natural Langugae Processing.
+- 💞️ I’m looking for internship as Data Scientist or Data Analyst.
 - 📫 You can reach me at gaurabparajuli5@gmail.com
 
 <!---
